@@ -50,7 +50,7 @@ The following metrics are utilized to assess the performance of each spell check
 
 You could read report [here](./Report.ipynb).
 
-## Evalution script
+## Evaluation script
 
 You could see evalution script [here](./Spell_Checkers_Evaluation.ipynb).
 
